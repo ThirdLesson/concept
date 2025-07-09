@@ -1,7 +1,6 @@
 # concept
 IT's Your Life 최종 프로젝트 기획
 
-<<<<<<< HEAD
 # 자기소개
 
 ## 팀장 이준범
